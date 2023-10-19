@@ -115,7 +115,7 @@ namespace Inventory
 
         public class NumberFormatException : Exception
         {
-                public NumberFormatException(string exception) : base(exception) { }S
+                public NumberFormatException(string exception) : base(exception) { }
             
         }
 
